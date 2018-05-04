@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776161605924",
+    "firebase_url": "https://cmonbruh-d81d0.firebaseio.com",
+    "project_id": "cmonbruh-d81d0",
+    "storage_bucket": "cmonbruh-d81d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776161605924:android:0ee829eaf28a5b4b",
+        "android_client_info": {
+          "package_name": "emil_rnd.trackinggps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776161605924-v7p0v4oka7o4narqcg97t2b0s10s1ket.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emil_rnd.trackinggps",
+            "certificate_hash": "ad767858add02b4c40bf73a3dbabca2a7bdadf93"
+          }
+        },
+        {
+          "client_id": "776161605924-8ou0ku1mqmemcrmgf10fe52d7ljoobjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAOQTZnukcxpzaKOOncCuOiu7XXvl6WI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776161605924-8ou0ku1mqmemcrmgf10fe52d7ljoobjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
